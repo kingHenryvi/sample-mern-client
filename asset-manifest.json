@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sample-mern-client/static/css/main.1cafa257.css",
+    "main.js": "/sample-mern-client/static/js/main.c5c30e90.js",
+    "index.html": "/sample-mern-client/index.html",
+    "main.1cafa257.css.map": "/sample-mern-client/static/css/main.1cafa257.css.map",
+    "main.c5c30e90.js.map": "/sample-mern-client/static/js/main.c5c30e90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cafa257.css",
+    "static/js/main.c5c30e90.js"
+  ]
+}
